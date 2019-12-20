@@ -1,8 +1,10 @@
-// Parei no minuto 1:53:00
+// Parei no minuto 2:17:00
  express = require('express')
 const app = express()
 const bodyParser = require('body-parser')
+
 const path = require('path')
+
 const sqlite = require('sqlite')
 const dbConnection = sqlite.open(path.resolve(__dirname, 'banco.sqlite'), { Promise })
 
