@@ -15,7 +15,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^2.7.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gcc": "^1.0.2",
     "node-pre-gyp": "^0.14.0",
     "sqlite": "^3.0.3",
